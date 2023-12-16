@@ -19,10 +19,6 @@
 <!-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on. -->
 
 
-### Connect with Me :
-
-<a href="https://www.linkedin.com/in/ahmed-yasser-33673b209/" target="_blank"><img src="[https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white](https://www.bing.com/ck/a?!&&p=84625f8777407267JmltdHM9MTcwMjY4NDgwMCZpZ3VpZD0zNDEzMTA2Zi1lYTEzLTZlMzEtM2U5OC0wMzI3ZWI2ZjZmZTEmaW5zaWQ9NTU3NQ&ptn=3&ver=2&hsh=3&fclid=3413106f-ea13-6e31-3e98-0327eb6f6fe1&u=a1L2ltYWdlcy9zZWFyY2g_cT1saW5rZWRpbiBpY29uJkZPUk09SVFGUkJBJmlkPTdFQ0ZERDJFREJDRDIwODJBODgyRjI5MjE4MURBQzgwMEIzQjcxNkM&ntb=1)"/></a>
-
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -34,10 +30,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 
-
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-</a>
 
 
